@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKbwMdPuZSJOnogHvpnN1aIxMuRD7QgnSdxTL80DlTkDUjvJYjoRiHjIGuZZqcwl79Ir7FZrgnY5wWfZnZjTnw==",
+  "success": true,
+  "projectFilePath": "G:\\playground\\c#\\WebBotProject\\WebBotProject\\WebBotProject\\WebBotProject\\WebBotProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hannes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
